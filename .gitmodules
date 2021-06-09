@@ -1,0 +1,3 @@
+[submodule "archinstall-git"]
+	path = archinstall-git
+	url = https://aur.archlinux.org/archinstall-git.git
